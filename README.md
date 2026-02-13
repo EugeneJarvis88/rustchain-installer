@@ -5,7 +5,7 @@ One-line installer for RustChain miner on Ubuntu/Debian/macOS.
 ## Quick Install
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/EugeneJarvis88/rustchain-installer/main/install-miner.sh | bash
+curl -sSL https://raw.githubusercontent.com/EugeneJarvis88/rustchain-installer/master/install-miner.sh | bash
 ```
 
 ## Features
@@ -33,7 +33,7 @@ curl -sSL https://raw.githubusercontent.com/EugeneJarvis88/rustchain-installer/m
 
 ### Dry Run (preview without installing)
 ```bash
-curl -sSL https://raw.githubusercontent.com/EugeneJarvis88/rustchain-installer/main/install-miner.sh | bash -s -- --dry-run
+curl -sSL https://raw.githubusercontent.com/EugeneJarvis88/rustchain-installer/master/install-miner.sh | bash -s -- --dry-run
 ```
 
 ### After Installation
